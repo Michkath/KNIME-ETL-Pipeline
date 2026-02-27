@@ -1,6 +1,7 @@
 # KNIME-ETL-Pipeline
 
-Présentation du Projet
+## Présentation du Projet
+
 Ce projet consiste en la mise en place d'un pipeline ETL (Extract, Transform, Load) automatisé via KNIME. L'objectif est de collecter, nettoyer et structurer des données de veille concurrentielle pour faciliter l'analyse décisionnelle.
 
 Fonctionnalités
