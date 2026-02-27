@@ -17,19 +17,27 @@ Automatisation : Workflow conçu pour être exécuté de manière périodique af
 ## Stack Technique
 
 Outil ETL : KNIME Analytics Platform.
+
 Base de Données : PostgreSQL / SQL.
+
 Format de données : JSON, CSV, XLSX.
 
 ## Structure du Workflow
 
 Le workflow KNIME est organisé en plusieurs sections logiques :
+
 Data Ingestion : Connecteurs de fichiers et requêtes API.
+
 Data Cleaning : Filtrage, renommage de colonnes et typage des données.
+
 Business Logic : Calcul de KPIs et agrégations.
+
 Data Output : Écriture dans la base de données cible.
 
 ## Résultats
 
 Réduction du temps de traitement manuel des données.
+
 Fiabilisation de la collecte avec un taux d'erreur quasi nul.
+
 Données prêtes à l'emploi pour des dashboards (Power BI / Tableau).
